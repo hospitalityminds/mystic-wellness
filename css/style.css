@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+.icon_target:before {
+content:"\e0f5";
+}
+
+.icon_hourglass:before {
+content:"\e0e1";
+}
+
+.icon_balance:before {
+content:"\e0ff";
+}
+
+.icon_rook:before {
+content:"\e0f8";
+}
+
+.icon_printer-alt:before {
+content:"\e0fa";
+}
+
+.icon_calculator_alt:before {
+content:"\e0e7";
+}
+
+.icon_building_alt:before {
+content:"\e0fd";
+}
+
+.icon_floppy_alt:before {
+content:"\e0e4";
+}
+
+.icon_drive_alt:before {
+content:"\e0e5";
+}
+
+.icon_search_alt:before {
+content:"\e0f7";
+}
+
+.icon_id_alt:before {
+content:"\e0e0";
+}
+
+.icon_id-2_alt:before {
+content:"\e0fc";
+}
+
+.icon_puzzle_alt:before {
+content:"\e0f9";
+}
+
+.icon_like_alt:before {
+content:"\e0dd";
+}
+
+.icon_dislike_alt:before {
+content:"\e0f1";
+}
+
+.icon_mug_alt:before {
+content:"\e0dc";
+}
+
+.icon_currency_alt:before {
+content:"\e0f3";
+}
+
+.icon_wallet_alt:before {
+content:"\e0d8";
+}
+
+.icon_pens_alt:before {
+content:"\e0db";
+}
+
+.icon_easel_alt:before {
+content:"\e0f0";
+}
+
+.icon_flowchart_alt:before {
+content:"\e0df";
+}
+
+.icon_datareport_alt:before {
+content:"\e0f2";
+}
+
+.icon_briefcase_alt:before {
+content:"\e0f4";
+}
+
+.icon_shield_alt:before {
+content:"\e0d9";
+}
+
+.icon_percent_alt:before {
+content:"\e0da";
+}
+
+.icon_globe_alt:before {
+content:"\e0de";
+}
+
+.icon_clipboard:before {
+content:"\e0e6";
+}
+
+.glyph {
+float:left;
+text-align:center;
+padding:.75em;
+margin:.4em 1.5em .75em 0;
+width:6em;
+text-shadow:none;
+}
+
+.glyph_big {
+font-size:128px;
+color:#59c5dc;
+float:left;
+margin-right:20px;
+}
+
+.glyph div {
+padding-bottom:10px;
+}
+
+.glyph input {
+font-family:consolas,monospace;
+font-size:12px;
+width:100%;
+text-align:center;
+border:0;
+box-shadow:0 0 0 1px #ccc;
+padding:.2em;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+}
+
+.centered {
+margin-left:auto;
+margin-right:auto;
+}
+
+.glyph .fs1 {
+font-size:2em;
+}
